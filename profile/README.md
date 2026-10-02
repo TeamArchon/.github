@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,50:171717,100:000000&text=TEAMARCHON&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=BUILD%20%7C%20CREATE%20%7C%20INNOVATE&descSize=18&descAlignY=62&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=WELCOME+TO+TEAMARCHON;BUILDING+THE+NEXT+GENERATION+OF+OPEN+SOURCE;TELEGRAM+%7C+MUSIC+%7C+AUTOMATION+%7C+DEVELOPER+TOOLS;TURNING+IDEAS+INTO+REALITY." />
+
+<br><br>
+
+<a href="https://github.com/TeamArchon">
+<img src="https://img.shields.io/badge/TEAMARCHON-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/TeamArchon?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 <h1 align="center">⚡ TᴇᴀᴍAʀᴄʜᴏɴ</h1>
 
