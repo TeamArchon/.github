@@ -8,14 +8,6 @@
 
 <br><br>
 
-<a href="https://github.com/TeamArchon">
-<img src="https://img.shields.io/badge/TEAMARCHON-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/TeamArchon?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </div>
 
 <p align="center">
