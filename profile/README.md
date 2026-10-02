@@ -79,30 +79,28 @@ Community Projects
 
 ---
 
-# 🧬 WHO IS TEAMARCHON?
+<h2 align="center">📊 Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛꜱ & Iɴꜰᴏ</h2>
 
-> **TeamArchon** is an independent technology organization focused on
-> creating powerful, modern and open-source software.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamArchon&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamArchon&theme=tokyonight&border_radius=20&fire=FF6B35&ring=00F7FF&currStreakLabel=00F7FF" width="48%" />
+</p>
 
-We experiment with new ideas, build real-world systems and release
-technology that developers and communities can actually use.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamArchon&theme=tokyo-night&radius=16&area=true&hide_border=false&custom_title=ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ%20ɢʀᴀᴘʜ" width="96%" />
+</p>
 
-Our work revolves around **Telegram ecosystems, music technology,
-automation, developer tools and open-source projects.**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeamArchon&theme=tokyonight" width="96%" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeamArchon&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeamArchon&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeamArchon&theme=tokyonight&utcOffset=5.5" width="32%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamArchon&layout=compact&theme=tokyonight&border_radius=20&langs_count=8" width="42%" />
+</p>
 
-```text
-                    TEAMARCHON
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-       TELEGRAM       MUSIC        TOOLS
-          │             │             │
-       AUTOMATION    STREAMING     SYSTEMS
-          │             │             │
-          └─────────────┼─────────────┘
-                        │
-                   OPEN SOURCE
