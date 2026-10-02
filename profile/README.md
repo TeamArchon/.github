@@ -94,22 +94,6 @@
 
 ---
 
-<h2 align="center">🤝 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2>
-
-<p align="center">
-  Open source grows through collaboration.
-  Explore our repositories, report issues,
-  suggest improvements, and contribute code.
-</p>
-
-<p align="center">
-  <a href="https://github.com/TeamArchon">
-    <img src="https://img.shields.io/badge/Explore%20TeamArchon-161b22?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 <h2 align="center">📬 Cᴏɴᴛᴀᴄᴛ</h2>
 
 <p align="center">
