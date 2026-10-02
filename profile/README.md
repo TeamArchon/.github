@@ -18,16 +18,6 @@
 
 </div>
 
-<h1 align="center">⚡ TᴇᴀᴍAʀᴄʜᴏɴ</h1>
-
-<p align="center">
-  <b>ᴛʜᴇ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ɴᴇᴛᴡᴏʀᴋ</b>
-</p>
-
-<p align="center">
-  Building Powerful Telegram Bots, Automation Tools & Open-Source Projects.
-</p>
-
 <p align="center">
   <a href="https://github.com/TeamArchon">
     <img src="https://img.shields.io/badge/GitHub-TeamArchon-181717?style=for-the-badge&logo=github" />
